@@ -1,5 +1,7 @@
 # pigeonmountainwebsite
 This is my webpage about Pigeon Moutain
-/nCredits to:
+Credits to:
 @ryzraktr
-\npigeon-mountain-website-kbaj0204.netlify.app
+
+    
+pigeon-mountain-website-kbaj0204.netlify.app
